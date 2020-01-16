@@ -1,0 +1,19 @@
+html {
+  background-color: cyan;
+}
+
+body {
+  font-family: "Poppins", sans-serif;
+  height: 100vh;
+}
+
+a {
+  color: blue;
+  display:inline-block;
+  text-decoration: none;
+  font-weight: 400;
+}
+img{
+  display: block;
+  margin: auto;
+}
